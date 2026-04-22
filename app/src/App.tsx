@@ -33,6 +33,28 @@ type Rect = {
 };
 type RectsMap = Record<string, Record<string, Rect>>; // "AIE/AAHAUPT" -> { "hoffmann": Rect, ... }
 
+type RuntimeSprite = {
+  ch: number;
+  cm: number;
+  castName?: string;
+  bitmap?: string | null;
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+  ink: number;
+};
+type RuntimeScene = {
+  side: "VIE" | "AIE";
+  backdrop: string | null;
+  labels: Record<string, number>;
+  rolloverMap: Record<string, string>; // sprite channel -> target name
+  clicks: { target: string; script?: string }[];
+  sounds: AudioEntry[];
+  frames: Record<string, RuntimeSprite[]>;
+};
+type Runtime = Record<string, RuntimeScene>;
+
 function pickAudio(
   audio: AudioMap | null,
   side: string,
@@ -70,6 +92,7 @@ export default function App() {
   const [content, setContent] = useState<Content | null>(null);
   const [audio, setAudio] = useState<AudioMap | null>(null);
   const [rects, setRects] = useState<RectsMap | null>(null);
+  const [runtime, setRuntime] = useState<Runtime | null>(null);
   const [currentKey, setCurrentKey] = useState<string>("AIE/AAHAUPT");
   const [side, setSide] = useState<"VIE" | "AIE">("AIE");
   const [query, setQuery] = useState("");
@@ -88,6 +111,10 @@ export default function App() {
       .then((r) => r.json())
       .then(setRects)
       .catch((e) => console.error("rects load failed", e));
+    fetch("/content/runtime.json")
+      .then((r) => r.json())
+      .then(setRuntime)
+      .catch((e) => console.error("runtime load failed", e));
   }, []);
 
   useEffect(() => {
@@ -247,9 +274,67 @@ export default function App() {
             <div className="backdrop empty">no backdrop</div>
           )}
 
-          {/* Pixel-accurate rollover hotspots from CASt specific-data */}
+          {/* Pixel-accurate rollover hotspots — real VWSC positions from the
+              1996 Director score, joined with the Lingo rollover map. */}
+          {entered && runtime &&
+            (() => {
+              const rt = runtime[currentKey];
+              if (!rt) return null;
+              // Find the frame with the most rollover-channel sprites visible
+              const rolloverChannels = new Set(
+                Object.keys(rt.rolloverMap).map((k) => parseInt(k))
+              );
+              let bestFrame: RuntimeSprite[] = [];
+              let bestCoverage = 0;
+              for (const [, sprites] of Object.entries(rt.frames)) {
+                const cov = sprites.filter((s) => rolloverChannels.has(s.ch)).length;
+                if (cov > bestCoverage) {
+                  bestCoverage = cov;
+                  bestFrame = sprites;
+                }
+              }
+              return bestFrame
+                .filter((s) => rolloverChannels.has(s.ch) && s.w > 0 && s.h > 0)
+                .map((s) => {
+                  const target = rt.rolloverMap[String(s.ch)];
+                  const resolved = resolveTarget(
+                    target,
+                    { side: curSide, name: curName },
+                    scenes
+                  );
+                  return (
+                    <button
+                      key={`vwsc-${s.ch}`}
+                      className={[
+                        "hotspot",
+                        hoveredTarget === target ? "hovered" : "",
+                        resolved ? "" : "hotspot-frame-only",
+                      ].join(" ")}
+                      style={{
+                        top: Math.max(0, s.y),
+                        left: Math.max(0, s.x),
+                        width: s.w,
+                        height: s.h,
+                      }}
+                      onMouseEnter={() => setHoveredTarget(target)}
+                      onMouseLeave={() => setHoveredTarget(null)}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        navTo(target);
+                      }}
+                      aria-label={target}
+                      title={`sprite ${s.ch} → ${target}`}
+                    >
+                      <span className="hotspot-label">{target}</span>
+                    </button>
+                  );
+                });
+            })()}
+
+          {/* Fallback to CASt-derived hotspots for scenes without VWSC coverage */}
           {entered &&
             rects &&
+            !runtime?.[currentKey] &&
             Object.entries(rects[currentKey] ?? {}).map(([target, rect]) => {
               const resolved = resolveTarget(
                 target,

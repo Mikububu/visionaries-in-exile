@@ -13,7 +13,7 @@ if (existsSync(OUT)) rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 console.log(`OUT=${OUT}`);
 
-const BASE = "http://localhost:5173";
+const BASE = "https://visionaries-in-exile.netlify.app";
 const bugs = [];
 const logs = [];
 

@@ -17,6 +17,7 @@ extract-test/
 lingo-out/
 media/
 ProjectorRays/
+shared-lib/
 
 # QA artifacts
 qa/out/
@@ -27,3 +28,4 @@ qa/package-lock.json
 *.log
 /tmp/
 .claude/
+tools/__pycache__/

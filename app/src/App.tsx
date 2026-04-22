@@ -24,6 +24,15 @@ type AudioEntry = {
 };
 type AudioMap = Record<"VIE" | "AIE", Record<string, AudioEntry[]>>;
 
+type Rect = {
+  top: number;
+  left: number;
+  bottom: number;
+  right: number;
+  cast_name?: string;
+};
+type RectsMap = Record<string, Record<string, Rect>>; // "AIE/AAHAUPT" -> { "hoffmann": Rect, ... }
+
 function pickAudio(
   audio: AudioMap | null,
   side: string,
@@ -60,7 +69,8 @@ function resolveTarget(
 export default function App() {
   const [content, setContent] = useState<Content | null>(null);
   const [audio, setAudio] = useState<AudioMap | null>(null);
-  const [currentKey, setCurrentKey] = useState<string>("AIE/HOFFMANN");
+  const [rects, setRects] = useState<RectsMap | null>(null);
+  const [currentKey, setCurrentKey] = useState<string>("AIE/AAHAUPT");
   const [side, setSide] = useState<"VIE" | "AIE">("AIE");
   const [query, setQuery] = useState("");
   const [hoveredTarget, setHoveredTarget] = useState<string | null>(null);
@@ -74,6 +84,10 @@ export default function App() {
       .then((r) => r.json())
       .then(setAudio)
       .catch((e) => console.error("audio load failed", e));
+    fetch("/content/rects.json")
+      .then((r) => r.json())
+      .then(setRects)
+      .catch((e) => console.error("rects load failed", e));
   }, []);
 
   useEffect(() => {
@@ -233,6 +247,42 @@ export default function App() {
             <div className="backdrop empty">no backdrop</div>
           )}
 
+          {/* Pixel-accurate rollover hotspots from CASt specific-data */}
+          {entered &&
+            rects &&
+            Object.entries(rects[currentKey] ?? {}).map(([target, rect]) => {
+              const resolved = resolveTarget(
+                target,
+                { side: curSide, name: curName },
+                scenes
+              );
+              if (!resolved) return null;
+              return (
+                <button
+                  key={target}
+                  className={[
+                    "hotspot",
+                    hoveredTarget === target ? "hovered" : "",
+                  ].join(" ")}
+                  style={{
+                    top: rect.top,
+                    left: rect.left,
+                    width: rect.right - rect.left,
+                    height: rect.bottom - rect.top,
+                  }}
+                  onMouseEnter={() => setHoveredTarget(target)}
+                  onMouseLeave={() => setHoveredTarget(null)}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    navTo(target);
+                  }}
+                  aria-label={target}
+                >
+                  <span className="hotspot-label">{target}</span>
+                </button>
+              );
+            })}
+
           {!entered && (
             <div className="enter-overlay">
               <div className="enter-chrome">
@@ -250,16 +300,53 @@ export default function App() {
                   ▶ enter
                 </button>
                 <div className="enter-help">
-                  click anywhere on the image to advance · arrows in stats bar navigate
+                  hover faces to reveal architects · arrows below to navigate
                 </div>
               </div>
             </div>
           )}
 
-          {entered && (scene.clicks.length > 0 || scene.rollovers.length > 0) && (
-            <div className="stage-hint">click to continue →</div>
-          )}
+          {entered &&
+            !(rects && rects[currentKey]) &&
+            (scene.clicks.length > 0 || scene.rollovers.length > 0) && (
+              <div className="stage-hint">click to continue →</div>
+            )}
         </div>
+
+        {/* Menu bar — equivalent of sprites 32-43 in the original */}
+        {entered && (
+          <div className="menuebar">
+            <button
+              className="mb-btn"
+              onClick={goBack}
+              disabled={history.length === 0}
+              title="zurück (back)"
+            >
+              ◂ back
+            </button>
+            <button
+              className="mb-btn"
+              onClick={() => navTo("AAHAUPT")}
+              title="zum Hauptmenü (to main menu)"
+            >
+              ⌂ main menu
+            </button>
+            <div className="mb-spacer" />
+            <span className="mb-crumb">
+              {curSide} / {curName}
+            </span>
+            <div className="mb-spacer" />
+            {audioUrl && (
+              <button
+                className={`mb-btn mb-audio ${entered && !muted ? "playing" : ""}`}
+                onClick={() => setMuted((m) => !m)}
+                title={audioEntry?.file}
+              >
+                {muted ? "🔇" : "🔊"}
+              </button>
+            )}
+          </div>
+        )}
 
         {audioUrl && entered && (
           <audio

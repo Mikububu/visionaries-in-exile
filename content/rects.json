@@ -1,0 +1,1676 @@
+{
+  "VIE/AAHAUPT": {
+    "frank": {
+      "top": 159,
+      "left": 169,
+      "bottom": 480,
+      "right": 514,
+      "cast_bin": "CASt-113.bin",
+      "cast_name": "frank"
+    },
+    "frankl": {
+      "top": 0,
+      "left": 500,
+      "bottom": 231,
+      "right": 640,
+      "cast_bin": "CASt-133.bin",
+      "cast_name": "frankl"
+    },
+    "gruen": {
+      "top": 0,
+      "left": 198,
+      "bottom": 159,
+      "right": 388,
+      "cast_bin": "CASt-138.bin",
+      "cast_name": "gruen"
+    },
+    "hoffmann": {
+      "top": 94,
+      "left": 455,
+      "bottom": 309,
+      "right": 591,
+      "cast_bin": "CASt-148.bin",
+      "cast_name": "hoffmann"
+    },
+    "karplus": {
+      "top": 201,
+      "left": 481,
+      "bottom": 426,
+      "right": 640,
+      "cast_bin": "CASt-154.bin",
+      "cast_name": "karplus"
+    },
+    "kiesler": {
+      "top": 0,
+      "left": 116,
+      "bottom": 195,
+      "right": 281,
+      "cast_bin": "CASt-157.bin",
+      "cast_name": "kiesler"
+    },
+    "malcher": {
+      "top": 0,
+      "left": 297,
+      "bottom": 258,
+      "right": 491,
+      "cast_bin": "CASt-166.bin",
+      "cast_name": "malcher"
+    },
+    "neutra": {
+      "top": 282,
+      "left": 365,
+      "bottom": 480,
+      "right": 608,
+      "cast_bin": "CASt-182.bin",
+      "cast_name": "neutra"
+    },
+    "rudofsky": {
+      "top": 315,
+      "left": 0,
+      "bottom": 480,
+      "right": 333,
+      "cast_bin": "CASt-247.bin",
+      "cast_name": "rudofsky"
+    },
+    "schindler": {
+      "top": 282,
+      "left": 498,
+      "bottom": 480,
+      "right": 640,
+      "cast_bin": "CASt-251.bin",
+      "cast_name": "schindler"
+    },
+    "schmiderer": {
+      "top": 99,
+      "left": 168,
+      "bottom": 371,
+      "right": 359,
+      "cast_bin": "CASt-254.bin",
+      "cast_name": "schmiderer"
+    },
+    "sobotka": {
+      "top": 90,
+      "left": 517,
+      "bottom": 290,
+      "right": 640,
+      "cast_bin": "CASt-257.bin",
+      "cast_name": "sobotka"
+    },
+    "urban": {
+      "top": 0,
+      "left": 0,
+      "bottom": 200,
+      "right": 140,
+      "cast_bin": "CASt-265.bin",
+      "cast_name": "urban"
+    },
+    "vetter": {
+      "top": 239,
+      "left": 0,
+      "bottom": 480,
+      "right": 163,
+      "cast_bin": "CASt-271.bin",
+      "cast_name": "vetter"
+    },
+    "wlach": {
+      "top": 185,
+      "left": 78,
+      "bottom": 390,
+      "right": 275,
+      "cast_bin": "CASt-275.bin",
+      "cast_name": "wlach"
+    },
+    "baumfeld": {
+      "top": 0,
+      "left": 379,
+      "bottom": 163,
+      "right": 609,
+      "cast_bin": "CASt-92.bin",
+      "cast_name": "baumfeld"
+    }
+  },
+  "VIE/AUINTER": {
+    "thonet": {
+      "top": 4,
+      "left": 135,
+      "bottom": 57,
+      "right": 151,
+      "cast_bin": "CASt-67.bin",
+      "cast_name": "thonet"
+    }
+  },
+  "VIE/BAUHAUS": {
+    "poelzig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "poelzig"
+    },
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-78.bin",
+      "cast_name": "gropius"
+    }
+  },
+  "VIE/FRAKKRMO": {
+    "behrens": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-113.bin",
+      "cast_name": "behrens"
+    },
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-119.bin",
+      "cast_name": "gropius"
+    },
+    "poelzig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-121.bin",
+      "cast_name": "poelzig"
+    },
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-99.bin",
+      "cast_name": "mies"
+    }
+  },
+  "VIE/FRHAVIFR": {
+    "strnad": {
+      "top": 4,
+      "left": 55,
+      "bottom": 46,
+      "right": 71,
+      "cast_bin": "CASt-100.bin",
+      "cast_name": "strnad"
+    }
+  },
+  "VIE/FRINHAGA": {
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-204.bin",
+      "cast_name": "loos"
+    }
+  },
+  "VIE/GRWIEN": {
+    "behrens": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-84.bin",
+      "cast_name": "behrens"
+    }
+  },
+  "VIE/HOFFMANN": {
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-71.bin",
+      "cast_name": "wagner"
+    },
+    "klimt": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-75.bin",
+      "cast_name": "klimt"
+    },
+    "moser": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-77.bin",
+      "cast_name": "moser"
+    }
+  },
+  "VIE/KIN33": {
+    "raumplan": {
+      "top": 44,
+      "left": 0,
+      "bottom": 64,
+      "right": 103,
+      "cast_bin": "CASt-252.bin",
+      "cast_name": "Raumplan"
+    },
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-94.bin",
+      "cast_name": "mies"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-96.bin",
+      "cast_name": "loos"
+    }
+  },
+  "VIE/KIN3447": {
+    "duchamp": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-137.bin",
+      "cast_name": "duchamp"
+    }
+  },
+  "VIE/KIPN4764": {
+    "arp": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-162.bin",
+      "cast_name": "arp"
+    }
+  },
+  "VIE/KIWBP": {
+    "doesburg": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-185.bin",
+      "cast_name": "doesburg"
+    },
+    "moholy": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-187.bin",
+      "cast_name": "moholy"
+    },
+    "leger": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-191.bin",
+      "cast_name": "leger"
+    }
+  },
+  "VIE/Klimt": {
+    "moser": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-59.bin",
+      "cast_name": "moser"
+    }
+  },
+  "VIE/MOSER": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "hoffmann"
+    },
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-76.bin",
+      "cast_name": "wagner"
+    }
+  },
+  "VIE/NEN1892": {
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-212.bin",
+      "cast_name": "wagner"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-236.bin",
+      "cast_name": "loos"
+    },
+    "sullivan": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-240.bin",
+      "cast_name": "sullivan"
+    }
+  },
+  "VIE/NEN1927": {
+    "lovell": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-161.bin",
+      "cast_name": "lovell"
+    }
+  },
+  "VIE/NEN1930": {
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-186.bin",
+      "cast_name": "mies"
+    }
+  },
+  "VIE/NENVOLK": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-123.bin",
+      "cast_name": "hoffmann"
+    },
+    "holz": {
+      "top": 4,
+      "left": 281,
+      "bottom": 330,
+      "right": 297,
+      "cast_bin": "CASt-125.bin",
+      "cast_name": "holz"
+    },
+    "strnad": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-127.bin",
+      "cast_name": "strnad"
+    }
+  },
+  "VIE/PECHE": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "VIE/RUD1938": {
+    "saar": {
+      "top": 64,
+      "left": 123,
+      "bottom": 80,
+      "right": 142,
+      "cast_bin": "CASt-128.bin",
+      "cast_name": "saar"
+    }
+  },
+  "VIE/RUD1950": {
+    "le": {
+      "top": 64,
+      "left": 123,
+      "bottom": 80,
+      "right": 142,
+      "cast_bin": "CASt-172.bin",
+      "cast_name": "le"
+    }
+  },
+  "VIE/SCCHICAG": {
+    "sullivan": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-93.bin",
+      "cast_name": "sullivan"
+    }
+  },
+  "VIE/SCDREISS": {
+    "johnson": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-137.bin",
+      "cast_name": "Johnson"
+    },
+    "space": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-141.bin",
+      "cast_name": "space"
+    }
+  },
+  "VIE/SCHIELE": {
+    "klimt": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-66.bin",
+      "cast_name": "klimt"
+    },
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-68.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "VIE/SCJUGEND": {
+    "buch": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-13.bin",
+      "cast_name": "buch"
+    },
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-23.bin",
+      "cast_name": "wagner"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-37.bin",
+      "cast_name": "loos"
+    }
+  },
+  "VIE/SCLOSANG": {
+    "lovell": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-327.bin",
+      "cast_name": "lovell"
+    }
+  },
+  "VIE/SMBIO": {
+    "12": {
+      "top": 0,
+      "left": 0,
+      "bottom": 323,
+      "right": 470,
+      "cast_bin": "CASt-234.bin",
+      "cast_name": "12"
+    }
+  },
+  "VIE/URAA": {
+    "schiele": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-130.bin",
+      "cast_name": "schiele"
+    },
+    "ziegfeld": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-132.bin",
+      "cast_name": "ziegfeld"
+    },
+    "theatres": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-146.bin",
+      "cast_name": "theatres"
+    }
+  },
+  "VIE/URAWIEN": {
+    "lefler": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-84.bin",
+      "cast_name": "lefler"
+    }
+  },
+  "VIE/URJUGEND": {
+    "baumann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-79.bin",
+      "cast_name": "baumann"
+    },
+    "lefler": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-81.bin",
+      "cast_name": "lefler"
+    }
+  },
+  "VIE/URMARA": {
+    "barwig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-72.bin",
+      "cast_name": "barwig"
+    }
+  },
+  "VIE/URPALA": {
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-75.bin",
+      "cast_name": "gropius"
+    }
+  },
+  "VIE/URWWA": {
+    "klimt": {
+      "top": 0,
+      "left": 0,
+      "bottom": 480,
+      "right": 231,
+      "cast_bin": "CASt-29.bin",
+      "cast_name": "Klimt"
+    }
+  },
+  "VIE/WAGNER": {
+    "olbrich": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-55.bin",
+      "cast_name": "olbrich"
+    }
+  },
+  "VIE/WWERKB": {
+    "loos": {
+      "top": 220,
+      "left": 21,
+      "bottom": 236,
+      "right": 123,
+      "cast_bin": "CASt-101.bin",
+      "cast_name": "loos"
+    },
+    "strnad": {
+      "top": 458,
+      "left": 13,
+      "bottom": 474,
+      "right": 143,
+      "cast_bin": "CASt-107.bin",
+      "cast_name": "strnad"
+    },
+    "rietveld": {
+      "top": 214,
+      "left": 90,
+      "bottom": 232,
+      "right": 240,
+      "cast_bin": "CASt-18.bin",
+      "cast_name": "rietveld"
+    },
+    "hoffmann": {
+      "top": 253,
+      "left": 19,
+      "bottom": 267,
+      "right": 164,
+      "cast_bin": "CASt-80.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "VIE/ZEIT": {
+    "1925": {
+      "top": 62,
+      "left": 143,
+      "bottom": 542,
+      "right": 783,
+      "cast_bin": "CASt-401.bin",
+      "cast_name": "1925"
+    },
+    "1927": {
+      "top": 62,
+      "left": 178,
+      "bottom": 506,
+      "right": 767,
+      "cast_bin": "CASt-416.bin",
+      "cast_name": "1927"
+    },
+    "1939": {
+      "top": 62,
+      "left": 155,
+      "bottom": 228,
+      "right": 755,
+      "cast_bin": "CASt-423.bin",
+      "cast_name": "1939"
+    }
+  },
+  "AIE/AAHAUPT": {
+    "frank": {
+      "top": 159,
+      "left": 169,
+      "bottom": 480,
+      "right": 514,
+      "cast_bin": "CASt-113.bin",
+      "cast_name": "frank"
+    },
+    "frankl": {
+      "top": 0,
+      "left": 500,
+      "bottom": 231,
+      "right": 640,
+      "cast_bin": "CASt-133.bin",
+      "cast_name": "frankl"
+    },
+    "gruen": {
+      "top": 0,
+      "left": 198,
+      "bottom": 159,
+      "right": 388,
+      "cast_bin": "CASt-138.bin",
+      "cast_name": "gruen"
+    },
+    "hoffmann": {
+      "top": 94,
+      "left": 455,
+      "bottom": 309,
+      "right": 591,
+      "cast_bin": "CASt-148.bin",
+      "cast_name": "hoffmann"
+    },
+    "karplus": {
+      "top": 201,
+      "left": 481,
+      "bottom": 426,
+      "right": 640,
+      "cast_bin": "CASt-154.bin",
+      "cast_name": "karplus"
+    },
+    "malcher": {
+      "top": 0,
+      "left": 297,
+      "bottom": 258,
+      "right": 491,
+      "cast_bin": "CASt-166.bin",
+      "cast_name": "malcher"
+    },
+    "neutra": {
+      "top": 282,
+      "left": 365,
+      "bottom": 480,
+      "right": 608,
+      "cast_bin": "CASt-182.bin",
+      "cast_name": "neutra"
+    },
+    "rudofsky": {
+      "top": 315,
+      "left": 0,
+      "bottom": 480,
+      "right": 333,
+      "cast_bin": "CASt-247.bin",
+      "cast_name": "rudofsky"
+    },
+    "schindler": {
+      "top": 282,
+      "left": 498,
+      "bottom": 480,
+      "right": 640,
+      "cast_bin": "CASt-251.bin",
+      "cast_name": "schindler"
+    },
+    "schmiderer": {
+      "top": 99,
+      "left": 168,
+      "bottom": 371,
+      "right": 359,
+      "cast_bin": "CASt-254.bin",
+      "cast_name": "schmiderer"
+    },
+    "sobotka": {
+      "top": 90,
+      "left": 517,
+      "bottom": 290,
+      "right": 640,
+      "cast_bin": "CASt-257.bin",
+      "cast_name": "sobotka"
+    },
+    "urban": {
+      "top": 0,
+      "left": 0,
+      "bottom": 200,
+      "right": 140,
+      "cast_bin": "CASt-265.bin",
+      "cast_name": "urban"
+    },
+    "vetter": {
+      "top": 239,
+      "left": 0,
+      "bottom": 480,
+      "right": 163,
+      "cast_bin": "CASt-271.bin",
+      "cast_name": "vetter"
+    },
+    "wlach": {
+      "top": 185,
+      "left": 78,
+      "bottom": 390,
+      "right": 275,
+      "cast_bin": "CASt-275.bin",
+      "cast_name": "wlach"
+    },
+    "baumfeld": {
+      "top": 0,
+      "left": 379,
+      "bottom": 163,
+      "right": 609,
+      "cast_bin": "CASt-92.bin",
+      "cast_name": "baumfeld"
+    }
+  },
+  "AIE/AUINTER": {
+    "thonet": {
+      "top": 4,
+      "left": 135,
+      "bottom": 57,
+      "right": 151,
+      "cast_bin": "CASt-67.bin",
+      "cast_name": "thonet"
+    }
+  },
+  "AIE/BAUHAUS": {
+    "poelzig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "poelzig"
+    },
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-78.bin",
+      "cast_name": "gropius"
+    }
+  },
+  "AIE/ENTARTET": {
+    "grosz": {
+      "top": 54,
+      "left": 110,
+      "bottom": 413,
+      "right": 607,
+      "cast_bin": "CASt-20.bin",
+      "cast_name": "grosz"
+    },
+    "klee": {
+      "top": 27,
+      "left": 200,
+      "bottom": 411,
+      "right": 498,
+      "cast_bin": "CASt-41.bin",
+      "cast_name": "klee"
+    },
+    "kokoschka": {
+      "top": 26,
+      "left": 79,
+      "bottom": 417,
+      "right": 554,
+      "cast_bin": "CASt-50.bin",
+      "cast_name": "kokoschka"
+    },
+    "lehmbruck": {
+      "top": 35,
+      "left": 340,
+      "bottom": 386,
+      "right": 607,
+      "cast_bin": "CASt-59.bin",
+      "cast_name": "lehmbruck"
+    }
+  },
+  "AIE/FRAKKRMO": {
+    "behrens": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-113.bin",
+      "cast_name": "behrens"
+    },
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-119.bin",
+      "cast_name": "gropius"
+    },
+    "poelzig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-121.bin",
+      "cast_name": "poelzig"
+    },
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-99.bin",
+      "cast_name": "mies"
+    }
+  },
+  "AIE/FRHAVIFR": {
+    "strnad": {
+      "top": 4,
+      "left": 55,
+      "bottom": 46,
+      "right": 71,
+      "cast_bin": "CASt-100.bin",
+      "cast_name": "strnad"
+    }
+  },
+  "AIE/FRINHAGA": {
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-204.bin",
+      "cast_name": "loos"
+    }
+  },
+  "AIE/GRWIEN": {
+    "behrens": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-84.bin",
+      "cast_name": "behrens"
+    }
+  },
+  "AIE/HOFFMANN": {
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-71.bin",
+      "cast_name": "wagner"
+    },
+    "klimt": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-75.bin",
+      "cast_name": "klimt"
+    },
+    "moser": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-77.bin",
+      "cast_name": "moser"
+    }
+  },
+  "AIE/KIN33": {
+    "raumplan": {
+      "top": 243,
+      "left": 90,
+      "bottom": 266,
+      "right": 233,
+      "cast_bin": "CASt-252.bin",
+      "cast_name": "Raumplan"
+    },
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-94.bin",
+      "cast_name": "mies"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-96.bin",
+      "cast_name": "loos"
+    }
+  },
+  "AIE/KIN3447": {
+    "duchamp": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-137.bin",
+      "cast_name": "duchamp"
+    }
+  },
+  "AIE/KIPN4764": {
+    "arp": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-162.bin",
+      "cast_name": "arp"
+    }
+  },
+  "AIE/KIWBP": {
+    "doesburg": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-185.bin",
+      "cast_name": "doesburg"
+    },
+    "moholy": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-187.bin",
+      "cast_name": "moholy"
+    },
+    "leger": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-191.bin",
+      "cast_name": "leger"
+    }
+  },
+  "AIE/Klimt": {
+    "moser": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-59.bin",
+      "cast_name": "moser"
+    }
+  },
+  "AIE/MOSER": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "hoffmann"
+    },
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-76.bin",
+      "cast_name": "wagner"
+    }
+  },
+  "AIE/NEN1892": {
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-212.bin",
+      "cast_name": "wagner"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-236.bin",
+      "cast_name": "loos"
+    },
+    "sullivan": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-240.bin",
+      "cast_name": "sullivan"
+    }
+  },
+  "AIE/NEN1927": {
+    "lovell": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-161.bin",
+      "cast_name": "lovell"
+    }
+  },
+  "AIE/NEN1930": {
+    "mies": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-186.bin",
+      "cast_name": "mies"
+    }
+  },
+  "AIE/NENVOLK": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-123.bin",
+      "cast_name": "hoffmann"
+    },
+    "holz": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-125.bin",
+      "cast_name": "holz"
+    },
+    "strnad": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-127.bin",
+      "cast_name": "strnad"
+    }
+  },
+  "AIE/PECHE": {
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-74.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "AIE/RUD1938": {
+    "saar": {
+      "top": 4,
+      "left": 64,
+      "bottom": 123,
+      "right": 80,
+      "cast_bin": "CASt-128.bin",
+      "cast_name": "saar"
+    }
+  },
+  "AIE/RUD1950": {
+    "le": {
+      "top": 4,
+      "left": 64,
+      "bottom": 123,
+      "right": 80,
+      "cast_bin": "CASt-172.bin",
+      "cast_name": "le"
+    }
+  },
+  "AIE/SCCHICAG": {
+    "sullivan": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-93.bin",
+      "cast_name": "sullivan"
+    }
+  },
+  "AIE/SCDREISS": {
+    "johnson": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-137.bin",
+      "cast_name": "Johnson"
+    },
+    "space": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-141.bin",
+      "cast_name": "space"
+    }
+  },
+  "AIE/SCHIELE": {
+    "klimt": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-66.bin",
+      "cast_name": "klimt"
+    },
+    "hoffmann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-68.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "AIE/SCJUGEND": {
+    "buch": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-13.bin",
+      "cast_name": "buch"
+    },
+    "wagner": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-23.bin",
+      "cast_name": "wagner"
+    },
+    "loos": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-37.bin",
+      "cast_name": "loos"
+    }
+  },
+  "AIE/SCLOSANG": {
+    "lovell": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-327.bin",
+      "cast_name": "lovell"
+    }
+  },
+  "AIE/URAA": {
+    "schiele": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-130.bin",
+      "cast_name": "schiele"
+    },
+    "ziegfeld": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-132.bin",
+      "cast_name": "ziegfeld"
+    },
+    "theatres": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-146.bin",
+      "cast_name": "theatres"
+    }
+  },
+  "AIE/URAWIEN": {
+    "lefler": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-84.bin",
+      "cast_name": "lefler"
+    }
+  },
+  "AIE/URJUGEND": {
+    "baumann": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-79.bin",
+      "cast_name": "baumann"
+    },
+    "lefler": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-81.bin",
+      "cast_name": "lefler"
+    }
+  },
+  "AIE/URMARA": {
+    "barwig": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-72.bin",
+      "cast_name": "barwig"
+    }
+  },
+  "AIE/URPALA": {
+    "gropius": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-75.bin",
+      "cast_name": "gropius"
+    }
+  },
+  "AIE/URWWA": {
+    "klimt": {
+      "top": 0,
+      "left": 0,
+      "bottom": 480,
+      "right": 231,
+      "cast_bin": "CASt-29.bin",
+      "cast_name": "Klimt"
+    }
+  },
+  "AIE/WAGNER": {
+    "olbrich": {
+      "top": 4,
+      "left": 40,
+      "bottom": 67,
+      "right": 56,
+      "cast_bin": "CASt-55.bin",
+      "cast_name": "olbrich"
+    }
+  },
+  "AIE/WWERKB": {
+    "loos": {
+      "top": 220,
+      "left": 21,
+      "bottom": 236,
+      "right": 123,
+      "cast_bin": "CASt-101.bin",
+      "cast_name": "loos"
+    },
+    "strnad": {
+      "top": 458,
+      "left": 13,
+      "bottom": 474,
+      "right": 143,
+      "cast_bin": "CASt-107.bin",
+      "cast_name": "strnad"
+    },
+    "rietveld": {
+      "top": 214,
+      "left": 90,
+      "bottom": 232,
+      "right": 240,
+      "cast_bin": "CASt-18.bin",
+      "cast_name": "rietveld"
+    },
+    "hoffmann": {
+      "top": 253,
+      "left": 19,
+      "bottom": 267,
+      "right": 164,
+      "cast_bin": "CASt-80.bin",
+      "cast_name": "hoffmann"
+    }
+  },
+  "AIE/ZEIT": {
+    "1936": {
+      "top": 24,
+      "left": 45,
+      "bottom": 117,
+      "right": 550,
+      "cast_bin": "CASt-169.bin",
+      "cast_name": "1936"
+    },
+    "1893": {
+      "top": 53,
+      "left": 38,
+      "bottom": 145,
+      "right": 398,
+      "cast_bin": "CASt-185.bin",
+      "cast_name": "1893"
+    },
+    "1926": {
+      "top": 34,
+      "left": 299,
+      "bottom": 66,
+      "right": 577,
+      "cast_bin": "CASt-234.bin",
+      "cast_name": "1926"
+    },
+    "1900": {
+      "top": 220,
+      "left": 4,
+      "bottom": 364,
+      "right": 406,
+      "cast_bin": "CASt-244.bin",
+      "cast_name": "1900"
+    },
+    "1908": {
+      "top": 0,
+      "left": 122,
+      "bottom": 100,
+      "right": 615,
+      "cast_bin": "CASt-417.bin",
+      "cast_name": "1908"
+    },
+    "1925": {
+      "top": 0,
+      "left": 0,
+      "bottom": 480,
+      "right": 640,
+      "cast_bin": "CASt-653.bin",
+      "cast_name": "1925"
+    },
+    "1928": {
+      "top": 7,
+      "left": 107,
+      "bottom": 246,
+      "right": 624,
+      "cast_bin": "CASt-655.bin",
+      "cast_name": "1928"
+    },
+    "1923": {
+      "top": 301,
+      "left": 13,
+      "bottom": 444,
+      "right": 533,
+      "cast_bin": "CASt-662.bin",
+      "cast_name": "1923"
+    },
+    "1943": {
+      "top": 122,
+      "left": 332,
+      "bottom": 232,
+      "right": 640,
+      "cast_bin": "CASt-663.bin",
+      "cast_name": "1943"
+    },
+    "1944": {
+      "top": 311,
+      "left": 318,
+      "bottom": 443,
+      "right": 640,
+      "cast_bin": "CASt-666.bin",
+      "cast_name": "1944"
+    },
+    "1894": {
+      "top": 0,
+      "left": 32,
+      "bottom": 145,
+      "right": 640,
+      "cast_bin": "CASt-715.bin",
+      "cast_name": "1894"
+    },
+    "1896": {
+      "top": 21,
+      "left": 13,
+      "bottom": 121,
+      "right": 405,
+      "cast_bin": "CASt-723.bin",
+      "cast_name": "1896"
+    },
+    "1899": {
+      "top": 49,
+      "left": 0,
+      "bottom": 204,
+      "right": 377,
+      "cast_bin": "CASt-735.bin",
+      "cast_name": "1899"
+    },
+    "1903": {
+      "top": 15,
+      "left": 4,
+      "bottom": 365,
+      "right": 411,
+      "cast_bin": "CASt-742.bin",
+      "cast_name": "1903"
+    },
+    "1930": {
+      "top": 354,
+      "left": 14,
+      "bottom": 388,
+      "right": 565,
+      "cast_bin": "CASt-80.bin",
+      "cast_name": "1930"
+    },
+    "1912": {
+      "top": 0,
+      "left": 17,
+      "bottom": 209,
+      "right": 608,
+      "cast_bin": "CASt-850.bin",
+      "cast_name": "1912"
+    },
+    "1913": {
+      "top": 0,
+      "left": 17,
+      "bottom": 480,
+      "right": 640,
+      "cast_bin": "CASt-861.bin",
+      "cast_name": "1913"
+    },
+    "1914": {
+      "top": 19,
+      "left": 33,
+      "bottom": 105,
+      "right": 535,
+      "cast_bin": "CASt-864.bin",
+      "cast_name": "1914"
+    },
+    "1918": {
+      "top": 211,
+      "left": 22,
+      "bottom": 407,
+      "right": 477,
+      "cast_bin": "CASt-867.bin",
+      "cast_name": "1918"
+    },
+    "1919": {
+      "top": 209,
+      "left": 20,
+      "bottom": 480,
+      "right": 640,
+      "cast_bin": "CASt-870.bin",
+      "cast_name": "1919"
+    },
+    "1920": {
+      "top": 207,
+      "left": 6,
+      "bottom": 414,
+      "right": 416,
+      "cast_bin": "CASt-873.bin",
+      "cast_name": "1920"
+    },
+    "1922": {
+      "top": 0,
+      "left": 12,
+      "bottom": 445,
+      "right": 640,
+      "cast_bin": "CASt-876.bin",
+      "cast_name": "1922"
+    },
+    "1927": {
+      "top": 0,
+      "left": 38,
+      "bottom": 427,
+      "right": 625,
+      "cast_bin": "CASt-885.bin",
+      "cast_name": "1927"
+    },
+    "1929": {
+      "top": 105,
+      "left": 63,
+      "bottom": 277,
+      "right": 640,
+      "cast_bin": "CASt-888.bin",
+      "cast_name": "1929"
+    },
+    "1931": {
+      "top": 189,
+      "left": 0,
+      "bottom": 429,
+      "right": 582,
+      "cast_bin": "CASt-891.bin",
+      "cast_name": "1931"
+    },
+    "1932": {
+      "top": 190,
+      "left": 0,
+      "bottom": 426,
+      "right": 579,
+      "cast_bin": "CASt-894.bin",
+      "cast_name": "1932"
+    },
+    "1934": {
+      "top": 224,
+      "left": 303,
+      "bottom": 428,
+      "right": 640,
+      "cast_bin": "CASt-905.bin",
+      "cast_name": "1934"
+    },
+    "1935": {
+      "top": 185,
+      "left": 104,
+      "bottom": 429,
+      "right": 640,
+      "cast_bin": "CASt-908.bin",
+      "cast_name": "1935"
+    },
+    "1937": {
+      "top": 27,
+      "left": 45,
+      "bottom": 255,
+      "right": 554,
+      "cast_bin": "CASt-910.bin",
+      "cast_name": "1937"
+    },
+    "1938": {
+      "top": 9,
+      "left": 11,
+      "bottom": 162,
+      "right": 540,
+      "cast_bin": "CASt-913.bin",
+      "cast_name": "1938"
+    },
+    "1939": {
+      "top": 0,
+      "left": 0,
+      "bottom": 159,
+      "right": 594,
+      "cast_bin": "CASt-917.bin",
+      "cast_name": "1939"
+    },
+    "1940": {
+      "top": 240,
+      "left": 63,
+      "bottom": 427,
+      "right": 422,
+      "cast_bin": "CASt-920.bin",
+      "cast_name": "1940"
+    },
+    "1941": {
+      "top": 220,
+      "left": 0,
+      "bottom": 352,
+      "right": 397,
+      "cast_bin": "CASt-923.bin",
+      "cast_name": "1941"
+    },
+    "1945": {
+      "top": 302,
+      "left": 280,
+      "bottom": 437,
+      "right": 640,
+      "cast_bin": "CASt-926.bin",
+      "cast_name": "1945"
+    },
+    "1924": {
+      "top": 0,
+      "left": 11,
+      "bottom": 442,
+      "right": 529,
+      "cast_bin": "CASt-949.bin",
+      "cast_name": "1924"
+    }
+  },
+  "AIE/smbio": {
+    "12": {
+      "top": 0,
+      "left": 0,
+      "bottom": 323,
+      "right": 470,
+      "cast_bin": "CASt-234.bin",
+      "cast_name": "12"
+    }
+  }
+}

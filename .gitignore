@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+app/node_modules/
+qa/node_modules/
+
+# build artifacts
+app/dist/
+app/.netlify/
+
+# derived extraction output — regenerable from source via tools/
+# (do NOT commit these 750MB of PNGs to git; they live under Netlify
+#  deploy only. To rebuild locally: run the pipeline in tools/)
+bitd-out/
+chunks/
+chunk-test/
+extract-test/
+lingo-out/
+media/
+ProjectorRays/
+
+# QA artifacts
+qa/out/
+qa/package-lock.json
+
+# misc
+.DS_Store
+*.log
+/tmp/
+.claude/

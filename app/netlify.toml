@@ -1,0 +1,6 @@
+# This site is pre-built locally and deployed via `netlify deploy --dir=dist`.
+# No remote build step needed.
+
+[build]
+  publish = "dist"
+  command = ""

@@ -1,0 +1,4904 @@
+{
+  "VIE": {
+    "ABBILD": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 14",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "ARCHMOD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - konstrukt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ARP": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - doesburg",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ARTDECO": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - kubis",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "AUBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 100",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "AUInter2.Aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22",
+        "mp3": null,
+        "ref_stem": "auinter2"
+      },
+      {
+        "file": "AUinter1.Aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23",
+        "mp3": null,
+        "ref_stem": "auinter1"
+      },
+      {
+        "file": "loos001",
+        "trigger": "playFile",
+        "script": "CastScript 41 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 45 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 47 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 48 - wwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "AUDAC": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "AUINTER": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 49",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "AUMOBEL": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 45",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "AUUSA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 50",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "AUWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - gardin",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 24 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "BABIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 112",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 36 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "GrSou001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      }
+    ],
+    "BARWIG": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - secess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "urma01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      }
+    ],
+    "BAUHAUS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 27",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "BEHRENS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - olbr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "wa001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "BURLING": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001",
+        "trigger": "playFile",
+        "script": "CastScript 11 - freusd",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "CIAM": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - corb",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "CORBUS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - behren",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "DADA": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - duch",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "DOESBURG": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - mondrian",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - bauhau",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "DUCHAMP": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 41",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ERNST": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - dad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "FLBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 46 - wright",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 50 - bauhaus",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "FRAKKRMO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 59",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - 11.1 Bauhaus",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 47 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "FRBIO": [
+      {
+        "file": "FrVFR01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 24",
+        "mp3": null,
+        "ref_stem": "frvfr01"
+      },
+      {
+        "file": "fr01.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 25",
+        "mp3": null,
+        "ref_stem": "fr01"
+      },
+      {
+        "file": "FrEFR01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 26",
+        "mp3": null,
+        "ref_stem": "frefr01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - aktiv",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "FrHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 5 - inter",
+        "mp3": "/media/aif/VIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "FREUDA": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - emigration",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 6 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "FRHAVIFR": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 19 - strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "FRINHAGA": [
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "FRSIEDMI": [
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 6 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "FUNKTION": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - Sull",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "FUTUR": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - mari",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Fremswu": [
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 49",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GARDINER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "GBBIO": [
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 25 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 26 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "WE001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 38 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "GRAM": [
+      {
+        "file": "Grfor001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 41 - fortworth",
+        "mp3": "/media/aif/VIE_GRFOR001.mp3",
+        "ref_stem": "grfor001"
+      },
+      {
+        "file": "GRsou001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 42 - southdale",
+        "mp3": "/media/aif/VIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      },
+      {
+        "file": "Grnor001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - northland",
+        "mp3": "/media/aif/VIE_GRNOR001.mp3",
+        "ref_stem": "grnor001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 44 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "grran001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - randhurst",
+        "mp3": "/media/aif/VIE_GRRAN001.mp3",
+        "ref_stem": "grran001"
+      }
+    ],
+    "GRBIO": [
+      {
+        "file": "Grnor001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 47",
+        "mp3": "/media/aif/VIE_GRNOR001.mp3",
+        "ref_stem": "grnor001"
+      },
+      {
+        "file": "Grsou001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/VIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      },
+      {
+        "file": "Grfor001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 49",
+        "mp3": "/media/aif/VIE_GRFOR001.mp3",
+        "ref_stem": "grfor001"
+      },
+      {
+        "file": "Grran001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 50",
+        "mp3": "/media/aif/VIE_GRRAN001.mp3",
+        "ref_stem": "grran001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 59",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "GrWie001.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 70",
+        "mp3": null,
+        "ref_stem": "grwie001"
+      },
+      {
+        "file": "GrAm001.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 71",
+        "mp3": null,
+        "ref_stem": "gram001"
+      },
+      {
+        "file": "gr1",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 72",
+        "mp3": null,
+        "ref_stem": "gr1"
+      }
+    ],
+    "GRFORT": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 45",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRNORTH": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 74",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GROPIUS": [
+      {
+        "file": "ba001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - bauhau",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - le corbus",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "GRRAND": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 41",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRRUECK": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 32",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRSOUTH": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 81",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 21 - behrens",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "HASENAU": [
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 7 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 9 - jugend",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "HOBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 28 - Strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 29 - hoffmann jos",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "HOFFMANN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 27 - ARRRTECCO",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 32 - klimt",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "Mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - moser",
+        "mp3": "/media/aif/VIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 34 - wrwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "HOLABIRD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - art de",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "HOLZMEIS": [
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - werkb",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "ISTYLE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - wright",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "JOHNSON": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - Mies 1",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "JUGEND": [
+      {
+        "file": "kl001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 15 - klimt",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "ho001",
+        "trigger": "playFile",
+        "script": "CastScript 16 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "KABIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 53",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "frHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - hauptarchitekt",
+        "mp3": "/media/aif/VIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "KAHN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "KIN2631": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 47 - 010 SakS aH. Konstrmus",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "UrNew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 51 - hauptarchitekt",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ],
+    "KIN33": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 20 - leg",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - loss",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "KIN3447": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 56",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "KIPN4764": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 34 - arp",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "KIWBP": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 118",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 56 - hoof",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "KONSTRUK": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - grop",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - bau",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "Klimt": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - sezess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - moser",
+        "mp3": "/media/aif/VIE_MO001.mp3",
+        "ref_stem": "mo001"
+      }
+    ],
+    "LEFLER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "LEGER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - le",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "LIBIO": [
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 38 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 41 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 42 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - werkstätte",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 44 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "LOOS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 43",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - wrwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "We001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - werkbu",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "LOVELL": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "MARINETT": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 6 - futur",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "MENDELS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - einsteinturm",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "MIES": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - le corbus",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 16 - bauha",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "MOHOLY": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - konstr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - bauhau",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "MONDRIAN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - stijl",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "MOSER": [
+      {
+        "file": "Wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 20 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 21 - sezessin",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - werk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "NEBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 111",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "NeWi01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 115",
+        "mp3": null,
+        "ref_stem": "newi01"
+      },
+      {
+        "file": "NeZB23.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 46",
+        "mp3": "/media/aif/VIE_NEZB23.mp3",
+        "ref_stem": "nezb23"
+      },
+      {
+        "file": "NeNY33a.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 47",
+        "mp3": "/media/aif/VIE_NENY33A.mp3",
+        "ref_stem": "neny33a"
+      },
+      {
+        "file": "NeLa01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/VIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "NeHa15.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 49",
+        "mp3": "/media/aif/VIE_NEHA15.mp3",
+        "ref_stem": "neha15"
+      },
+      {
+        "file": "NeHA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 50",
+        "mp3": "/media/aif/VIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      },
+      {
+        "file": "NeHb01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 51",
+        "mp3": "/media/aif/VIE_NEHB01.mp3",
+        "ref_stem": "nehb01"
+      },
+      {
+        "file": "NeNY48.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 58",
+        "mp3": "/media/aif/VIE_NENY48.mp3",
+        "ref_stem": "neny48"
+      },
+      {
+        "file": "NeNY10.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 59",
+        "mp3": "/media/aif/VIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 15 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "NEN1892": [
+      {
+        "file": "NeZB23.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 60",
+        "mp3": "/media/aif/VIE_NEZB23.mp3",
+        "ref_stem": "nezb23"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 64",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 78",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 44 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - schile",
+        "mp3": "/media/aif/VIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 47 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "NEN1919": [
+      {
+        "file": "NeNY33a.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 14",
+        "mp3": "/media/aif/VIE_NENY33A.mp3",
+        "ref_stem": "neny33a"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - mendel",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1923": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 16",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "NeNY48.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 22",
+        "mp3": "/media/aif/VIE_NENY48.mp3",
+        "ref_stem": "neny48"
+      }
+    ],
+    "NEN1925": [
+      {
+        "file": "NeNY65.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 27",
+        "mp3": "/media/aif/VIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - 63x",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1927": [
+      {
+        "file": "NeLH29.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 44",
+        "mp3": "/media/aif/VIE_NELH29.mp3",
+        "ref_stem": "nelh29"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 37 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1930": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 22",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "NeNY10.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 26",
+        "mp3": "/media/aif/VIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 16 - bauh",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "We001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "NEN1932": [
+      {
+        "file": "NeHA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 43",
+        "mp3": "/media/aif/VIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 36 - wright",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1935": [
+      {
+        "file": "NeHb01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/VIE_NEHB01.mp3",
+        "ref_stem": "nehb01"
+      }
+    ],
+    "NEN1949": [
+      {
+        "file": "NeHa15.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 17",
+        "mp3": "/media/aif/VIE_NEHA15.mp3",
+        "ref_stem": "neha15"
+      }
+    ],
+    "NENAPP": [
+      {
+        "file": "Nela01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 14",
+        "mp3": "/media/aif/VIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 19",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENHAUSE": [
+      {
+        "file": "neny10.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 102",
+        "mp3": "/media/aif/VIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      }
+    ],
+    "NENMOB": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 30",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENOFF": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 19",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neha01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 26",
+        "mp3": "/media/aif/VIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      }
+    ],
+    "NENPROJ": [
+      {
+        "file": "neny65.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 15",
+        "mp3": "/media/aif/VIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 21",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENPUB": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 43",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENSIEDL": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 13",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENVOLK": [
+      {
+        "file": "NeLA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/VIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 52",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 32 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "OLBRICH": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - secess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "PECHE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "WiWe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 20 - wwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "PLISCHKE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - srnad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - werkbun",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "POELZIG": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - rinhardt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "PONTI": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "PREFAB": [
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - hoff",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - grop",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RAUMPLAN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "REINHARD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - strnad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RIETVELD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - des",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "we001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - werkb",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "RUD1905": [
+      {
+        "file": "RU01b.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 33",
+        "mp3": null,
+        "ref_stem": "ru01b"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "RUD1930": [
+      {
+        "file": "RU01c.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 46",
+        "mp3": null,
+        "ref_stem": "ru01c"
+      }
+    ],
+    "RUD1935": [
+      {
+        "file": "RU01d.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 58",
+        "mp3": null,
+        "ref_stem": "ru01d"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - wri",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RUD1938": [
+      {
+        "file": "RU01e.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 49",
+        "mp3": null,
+        "ref_stem": "ru01e"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - saar",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RUD1944": [
+      {
+        "file": "RU01f.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 71",
+        "mp3": null,
+        "ref_stem": "ru01f"
+      }
+    ],
+    "RUD1950": [
+      {
+        "file": "RU01g.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 77",
+        "mp3": null,
+        "ref_stem": "ru01g"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 41 - le",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RUD1964": [
+      {
+        "file": "RU16.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 79",
+        "mp3": null,
+        "ref_stem": "ru16"
+      }
+    ],
+    "RUD1972": [
+      {
+        "file": "RU01h.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 37",
+        "mp3": null,
+        "ref_stem": "ru01h"
+      }
+    ],
+    "SAAR": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - style",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "SCBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 11",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ScJUG01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 38",
+        "mp3": null,
+        "ref_stem": "scjug01"
+      },
+      {
+        "file": "ScChi01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 39",
+        "mp3": null,
+        "ref_stem": "scchi01"
+      },
+      {
+        "file": "SC0001",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 40",
+        "mp3": null,
+        "ref_stem": "sc0001"
+      },
+      {
+        "file": "Scdre01.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 41",
+        "mp3": null,
+        "ref_stem": "scdre01"
+      },
+      {
+        "file": "sc40er",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 42",
+        "mp3": null,
+        "ref_stem": "sc40er"
+      }
+    ],
+    "SCCHICAG": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 22",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "SCDREISS": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 24 - 27H",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "SCHAUSER": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 31 - walker",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neny65.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 49 - völkerbund",
+        "mp3": "/media/aif/VIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      }
+    ],
+    "SCHIELE": [
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 23",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 16 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - secessi",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "SCHUETTE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - behrens",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 7 - werk",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "SCJUGEND": [
+      {
+        "file": "WA001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 21 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 25 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "SCLOSANG": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 52 - lovell",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neNY65.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 54 - Völkerbund",
+        "mp3": "/media/aif/VIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      }
+    ],
+    "SECESS": [
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 7 - klimt",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - olbrich",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - wrwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "SMBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 134 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 162 - freuD Sigmund",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "SOBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 25 - behrens",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - werkbun",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "STIJL": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - mondr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "STRNAD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - schutte",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "we001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 28 - werkbund",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "SULLIVAN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 19 - jug",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "SURREAL": [
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - duchamp",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "TEBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 36 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "THONET": [
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - Wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 12 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "URAA": [
+      {
+        "file": "UrNew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 52",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 58",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "UrMA01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 64",
+        "mp3": "/media/aif/VIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      },
+      {
+        "file": "Sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 36 - schiele",
+        "mp3": "/media/aif/VIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      }
+    ],
+    "URAWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22 - lefler",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - hoffamnn",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "URBIO": [
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 44",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "Urma01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/VIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      },
+      {
+        "file": "Urnew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 47",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "UrJ001.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 56",
+        "mp3": null,
+        "ref_stem": "urj001"
+      },
+      {
+        "file": "UrA001.Aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 57",
+        "mp3": null,
+        "ref_stem": "ura001"
+      },
+      {
+        "file": "05 Barbier intro.11",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 58",
+        "mp3": null,
+        "ref_stem": "05 barbier intro"
+      }
+    ],
+    "URFILM": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - hear",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URHAGEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 34",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URJUGEND": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 41",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URMARA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - barwig",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URNEW": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22 - wrigth",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URPALA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 40",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URTHEAT": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 27 - ziegfeld#florenz",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URWWA": [
+      {
+        "file": "Kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - Klimt",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - 25HHartdeco",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - wagner",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "VEBIO": [
+      {
+        "file": "UrNew001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 37 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 71 - werkb",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 76 - strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 78 - hoff",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "WAGNER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - hooff",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "WIENMOD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - sec",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - looos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - hooff",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - WAG",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - wiwe",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 24 - bauh",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "WIMMER": [
+      {
+        "file": "wiwe001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - wwerk",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "WLBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - freud",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - werkb",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "frHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - hauptarchitekt",
+        "mp3": "/media/aif/VIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "WRIGHT": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - int.style",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "WWERKB": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 54",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "WWERKST": [
+      {
+        "file": "mo001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 20",
+        "mp3": "/media/aif/VIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "Pe001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 20",
+        "mp3": "/media/aif/VIE_PE001.mp3",
+        "ref_stem": "pe001"
+      },
+      {
+        "file": "Wi001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - wimmer",
+        "mp3": "/media/aif/VIE_WI001.mp3",
+        "ref_stem": "wi001"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - hoffmann",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "ZEIT": [
+      {
+        "file": "Menu bei nicht Nichtroll 2",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 197",
+        "mp3": null,
+        "ref_stem": "menu bei nicht nichtroll 2"
+      },
+      {
+        "file": "Loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 246 - loss",
+        "mp3": "/media/aif/VIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 247 - wri",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 248 - wa",
+        "mp3": "/media/aif/VIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 250 - kl",
+        "mp3": "/media/aif/VIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 252 - mo",
+        "mp3": "/media/aif/VIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 254 - ho",
+        "mp3": "/media/aif/VIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 255 - fr",
+        "mp3": "/media/aif/VIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 256 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 258 - wr",
+        "mp3": "/media/aif/VIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 267 - wer",
+        "mp3": "/media/aif/VIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 280 - sch",
+        "mp3": "/media/aif/VIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 282 - bau",
+        "mp3": "/media/aif/VIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "Neny65.aif",
+        "trigger": "playFile",
+        "script": "CastScript 297 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 301 - Hauptarchitekt",
+        "mp3": "/media/aif/VIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ],
+    "ZIEGFELD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ]
+  },
+  "AIE": {
+    "ABBILD": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 15",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "ARCHMOD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - konstrukt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ARP": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 6 - doesburg",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ARTDECO": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - kubis",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "AUBIO": [
+      {
+        "file": "AUInter2.Aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22",
+        "mp3": null,
+        "ref_stem": "auinter2"
+      },
+      {
+        "file": "AUinter1.Aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23",
+        "mp3": null,
+        "ref_stem": "auinter1"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 30 - strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001",
+        "trigger": "playFile",
+        "script": "CastScript 41 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 45 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 47 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 48 - wwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "AUDAC": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "AUINTER": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 41",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "AUMOBEL": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 62",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 21 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "AUUSA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 50",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "AUWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - gardin",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 24 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "BABIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 112",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 36 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "GrSou001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      }
+    ],
+    "BARWIG": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - secess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "urma01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      }
+    ],
+    "BAUHAUS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 27",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "BEHRENS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - olbr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "wa001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "BURLING": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001",
+        "trigger": "playFile",
+        "script": "CastScript 11 - freusd",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "CIAM": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - corb",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Corbus": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - behren",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "DADA": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - duch",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "DOESBURG": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - mondrian",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - bauhau",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "DUCHAMP": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 40",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ERNST": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - dad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "FLBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 46 - wright",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 50 - bauhaus",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "FRAKKRMO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 65",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - 11.1 Bauhaus",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 37 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 38 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "FRBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - aktiv",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "FrHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 5 - inter",
+        "mp3": "/media/aif/AIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "FREUDA": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - emigration",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 6 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "FRHAVIFR": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 19 - strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "FRINHAGA": [
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "FRSIEDMI": [
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 6 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "FUTUR": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - mari",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Fremswu": [
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 49",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "Funktion": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - Sull",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "GARDINER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "fr001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "GBBIO": [
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 25 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 26 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "WE001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 38 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "GRAM": [
+      {
+        "file": "Grfor001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 41 - fortworth",
+        "mp3": "/media/aif/AIE_GRFOR001.mp3",
+        "ref_stem": "grfor001"
+      },
+      {
+        "file": "GRsou001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 42 - southdale",
+        "mp3": "/media/aif/AIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      },
+      {
+        "file": "Grnor001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - northland",
+        "mp3": "/media/aif/AIE_GRNOR001.mp3",
+        "ref_stem": "grnor001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 44 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "grran001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 46 - randhurst",
+        "mp3": "/media/aif/AIE_GRRAN001.mp3",
+        "ref_stem": "grran001"
+      }
+    ],
+    "GRBIO": [
+      {
+        "file": "Grnor001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 54",
+        "mp3": "/media/aif/AIE_GRNOR001.mp3",
+        "ref_stem": "grnor001"
+      },
+      {
+        "file": "Grsou001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 55",
+        "mp3": "/media/aif/AIE_GRSOU001.mp3",
+        "ref_stem": "grsou001"
+      },
+      {
+        "file": "Grfor001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 56",
+        "mp3": "/media/aif/AIE_GRFOR001.mp3",
+        "ref_stem": "grfor001"
+      },
+      {
+        "file": "Grran001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 57",
+        "mp3": "/media/aif/AIE_GRRAN001.mp3",
+        "ref_stem": "grran001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 66",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRFORT": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 27",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRNORTH": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 54",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GROPIUS": [
+      {
+        "file": "ba001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - bauhau",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - le corbus",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "GRRAND": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 33",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRRUECK": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 33",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRSOUTH": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 56",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "GRWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 21 - behrens",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "HASENAU": [
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - jugend",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "HOBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 28 - Strnad",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 29 - hoffmann jos",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "HOFFMANN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 27 - ARRRTECCO",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 32 - klimt",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "Mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - moser",
+        "mp3": "/media/aif/AIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 34 - wrwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "HOLABIRD": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 16 - art de",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "HOLZMEIS": [
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - werkb",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "ISTYLE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - wright",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "JOHNSON": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - Mies 1",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "KABIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 59",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "frHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - hauptarchitekt",
+        "mp3": "/media/aif/AIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "KAHN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "KIN2631": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 47 - 010 SakS aH. Konstrmus",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "UrNew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 55 - hauptarchitekt",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ],
+    "KIN33": [
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - Bauhausss",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 20 - leg",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - loss",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "KIN3447": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 56",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "KIPN4764": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 34 - arp",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "KIWBP": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 116",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 53 - hoof",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "Klimt": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - sezess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - moser",
+        "mp3": "/media/aif/AIE_MO001.mp3",
+        "ref_stem": "mo001"
+      }
+    ],
+    "LEFLER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "LEGER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - le",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "LOOS": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 43",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - wrwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "We001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - werkbu",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "LOVELL": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 4 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "MABIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 34 - monarchie",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "MOSER": [
+      {
+        "file": "Wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 20 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 21 - sezessin",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - werk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "Marinett": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - futur",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Mendels": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - einsteinturm",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Mondrian": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - stijl",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "NEBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 102",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 108",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "NeZB23.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 44",
+        "mp3": "/media/aif/AIE_NEZB23.mp3",
+        "ref_stem": "nezb23"
+      },
+      {
+        "file": "NeNY33a.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/AIE_NENY33A.mp3",
+        "ref_stem": "neny33a"
+      },
+      {
+        "file": "NeLa01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 46",
+        "mp3": "/media/aif/AIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "NeHa15.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 47",
+        "mp3": "/media/aif/AIE_NEHA15.mp3",
+        "ref_stem": "neha15"
+      },
+      {
+        "file": "NeHA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/AIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      },
+      {
+        "file": "NeHb01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 49",
+        "mp3": "/media/aif/AIE_NEHB01.mp3",
+        "ref_stem": "nehb01"
+      },
+      {
+        "file": "NeNY48.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 56",
+        "mp3": "/media/aif/AIE_NENY48.mp3",
+        "ref_stem": "neny48"
+      },
+      {
+        "file": "NeNY10.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 57",
+        "mp3": "/media/aif/AIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      }
+    ],
+    "NEN1892": [
+      {
+        "file": "NeZB23.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 48",
+        "mp3": "/media/aif/AIE_NEZB23.mp3",
+        "ref_stem": "nezb23"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 52",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 65",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 37 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 39 - schile",
+        "mp3": "/media/aif/AIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 40 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "NEN1919": [
+      {
+        "file": "NeNY33a.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 14",
+        "mp3": "/media/aif/AIE_NENY33A.mp3",
+        "ref_stem": "neny33a"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - mendel",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1923": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 19",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "NeNY48.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 25",
+        "mp3": "/media/aif/AIE_NENY48.mp3",
+        "ref_stem": "neny48"
+      }
+    ],
+    "NEN1925": [
+      {
+        "file": "NeNY65.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 27",
+        "mp3": "/media/aif/AIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - 63x",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1927": [
+      {
+        "file": "NeLH29.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 44",
+        "mp3": "/media/aif/AIE_NELH29.mp3",
+        "ref_stem": "nelh29"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 37 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1930": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 23",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "NeNY10.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 27",
+        "mp3": "/media/aif/AIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - bauh",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "We001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "NEN1932": [
+      {
+        "file": "NeHA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 43",
+        "mp3": "/media/aif/AIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 36 - wright",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NEN1935": [
+      {
+        "file": "NeHb01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 43",
+        "mp3": "/media/aif/AIE_NEHB01.mp3",
+        "ref_stem": "nehb01"
+      }
+    ],
+    "NEN1949": [
+      {
+        "file": "NeHa15.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 16",
+        "mp3": "/media/aif/AIE_NEHA15.mp3",
+        "ref_stem": "neha15"
+      }
+    ],
+    "NENAPP": [
+      {
+        "file": "Nela01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 12",
+        "mp3": "/media/aif/AIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 17",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENHAUSE": [
+      {
+        "file": "neny10.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 105",
+        "mp3": "/media/aif/AIE_NENY10.mp3",
+        "ref_stem": "neny10"
+      }
+    ],
+    "NENMOB": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 29",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENOFF": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 19",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neha01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 26",
+        "mp3": "/media/aif/AIE_NEHA01.mp3",
+        "ref_stem": "neha01"
+      }
+    ],
+    "NENPROJ": [
+      {
+        "file": "neny65.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 15",
+        "mp3": "/media/aif/AIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 21",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENPUB": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 43",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "NENVOLK": [
+      {
+        "file": "NeLA01.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/AIE_NELA01.mp3",
+        "ref_stem": "nela01"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 52",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 32 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "NeNsiedl": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 13",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "Olbrich": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - secess",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "PECHE": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "WiWe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 20 - wwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "Poelzig": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - rinhardt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Ponti": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 5 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RAUMPLAN": [
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "RUBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 40",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "RUD1905": [
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "RUD1935": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - wri",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RUD1938": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - saar",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "RUD1950": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 24 - le",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Reinhard": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - strnad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Rietveld": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - des",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "we001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - werkb",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "SAAR": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - style",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "SCBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 11",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "SCCHICAG": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 22",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "SCDREISS": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 24 - 27H",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "SCHAUSER": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 31 - walker",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neny65.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 49 - völkerbund",
+        "mp3": "/media/aif/AIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      }
+    ],
+    "SCHIELE": [
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 23",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 16 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - secessi",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "SCJUGEND": [
+      {
+        "file": "WA001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 21 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 25 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "SCLOSANG": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 52 - lovell",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "neNY65.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 54 - Völkerbund",
+        "mp3": "/media/aif/AIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      }
+    ],
+    "SOBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 25 - behrens",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 34 - tho",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "STIJL": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - mondr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "SULLIVAN": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - jug",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 21 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "Schuette": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - behrens",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 7 - werk",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      }
+    ],
+    "Secess": [
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 7 - klimt",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 8 - olbrich",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 9 - wrwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "Strnad": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - schutte",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "we001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "Surreal": [
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - duchamp",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "Thonet": [
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - Wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 12 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 8 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "URAA": [
+      {
+        "file": "UrNew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 51",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 57",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "UrMA01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 63",
+        "mp3": "/media/aif/AIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      },
+      {
+        "file": "Sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 35 - schiele",
+        "mp3": "/media/aif/AIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      }
+    ],
+    "URAWIEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22 - lefler",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - hoffamnn",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "URBIO": [
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 44",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "Urma01.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 45",
+        "mp3": "/media/aif/AIE_URMA01.mp3",
+        "ref_stem": "urma01"
+      },
+      {
+        "file": "Urnew001.aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 47",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ],
+    "URFILM": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - hear",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URHAGEN": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 34",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URJUGEND": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 41",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URMARA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 23 - barwig",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URNEW": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 22 - wrigth",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URPALA": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 40",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URTHEAT": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 27 - ziegfeld#florenz",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "URWWA": [
+      {
+        "file": "Kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - Klimt",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 18 - 25HHartdeco",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 19 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      }
+    ],
+    "WAGNER": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - hooff",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "WIENMOD": [
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - looos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - hooff",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - WAG",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 13 - wiwe",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - bauh",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "WIMMER": [
+      {
+        "file": "wiwe001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 10 - wwerk",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      }
+    ],
+    "WLBIO": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 15 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 23 - freud",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 30 - werkb",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "frHfr01.aif",
+        "trigger": "playFile",
+        "script": "CastScript 33 - hauptarchitekt",
+        "mp3": "/media/aif/AIE_FRHFR01.mp3",
+        "ref_stem": "frhfr01"
+      }
+    ],
+    "WWERKB": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 54",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "loos001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 22 - loos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 26 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "WWERKST": [
+      {
+        "file": "mo001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 20",
+        "mp3": "/media/aif/AIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "Pe001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 20",
+        "mp3": "/media/aif/AIE_PE001.mp3",
+        "ref_stem": "pe001"
+      },
+      {
+        "file": "Wi001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 12 - wimmer",
+        "mp3": "/media/aif/AIE_WI001.mp3",
+        "ref_stem": "wi001"
+      },
+      {
+        "file": "ho001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 14 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "Wright": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 14 - int.style",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "ZEIT": [
+      {
+        "file": "Menu bei nicht Nichtroll 2",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 294",
+        "mp3": null,
+        "ref_stem": "menu bei nicht nichtroll 2"
+      },
+      {
+        "file": "loos001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 161 - loooos",
+        "mp3": "/media/aif/AIE_LOOS001.mp3",
+        "ref_stem": "loos001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 226 - wri",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 227 - wa",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "kl001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 229 - kl",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "mo001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 231 - mo",
+        "mp3": "/media/aif/AIE_MO001.mp3",
+        "ref_stem": "mo001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 233 - ho",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "fr001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 234 - fr",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 235 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 237 - wr",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 246 - wer",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "sch001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 259 - sch",
+        "mp3": "/media/aif/AIE_SCH001.mp3",
+        "ref_stem": "sch001"
+      },
+      {
+        "file": "ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 261 - bau",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      },
+      {
+        "file": "Neny65.aif",
+        "trigger": "playFile",
+        "script": "CastScript 276 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_NENY65.mp3",
+        "ref_stem": "neny65"
+      },
+      {
+        "file": "urnew001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 280 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ],
+    "Ziegfeld": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "jugend": [
+      {
+        "file": "kl001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 15 - klimt",
+        "mp3": "/media/aif/AIE_KL001.mp3",
+        "ref_stem": "kl001"
+      },
+      {
+        "file": "ho001",
+        "trigger": "playFile",
+        "script": "CastScript 16 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "konstruk": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 11 - grop",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - bau",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "libio": [
+      {
+        "file": "wa001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 38 - wagner",
+        "mp3": "/media/aif/AIE_WA001.mp3",
+        "ref_stem": "wa001"
+      },
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 41 - hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 42 - werkbund",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "wiwe001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 43 - werkstätte",
+        "mp3": "/media/aif/AIE_WIWE001.mp3",
+        "ref_stem": "wiwe001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 44 - hoffmann",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      }
+    ],
+    "mies": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - le corbus",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 16 - bauha",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "moholy": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 17 - konstr",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "Ba001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 18 - bauhau",
+        "mp3": "/media/aif/AIE_BA001.mp3",
+        "ref_stem": "ba001"
+      }
+    ],
+    "plischke": [
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 10 - srnad",
+        "mp3": null,
+        "ref_stem": "glossar"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 17 - werkbun",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      }
+    ],
+    "prefab": [
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 11 - hoff",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "glossar.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 13 - grop",
+        "mp3": null,
+        "ref_stem": "glossar"
+      }
+    ],
+    "smbio": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 134 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "fr001.Aif",
+        "trigger": "playFile",
+        "script": "BehaviorScript 162 - freuD Sigmund",
+        "mp3": "/media/aif/AIE_FR001.mp3",
+        "ref_stem": "fr001"
+      }
+    ],
+    "tebio": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "CastScript 36 - Hauptarchitekt",
+        "mp3": null,
+        "ref_stem": "shared"
+      }
+    ],
+    "vebio": [
+      {
+        "file": "shared.aif",
+        "trigger": "puppetSound",
+        "script": "BehaviorScript 175",
+        "mp3": null,
+        "ref_stem": "shared"
+      },
+      {
+        "file": "we001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 71 - werkb",
+        "mp3": "/media/aif/AIE_WE001.mp3",
+        "ref_stem": "we001"
+      },
+      {
+        "file": "ho001.aif",
+        "trigger": "playFile",
+        "script": "CastScript 78 - hoff",
+        "mp3": "/media/aif/AIE_HO001.mp3",
+        "ref_stem": "ho001"
+      },
+      {
+        "file": "UrNew001.Aif",
+        "trigger": "playFile",
+        "script": "CastScript 99 - Hauptarchitekt",
+        "mp3": "/media/aif/AIE_URNEW001.mp3",
+        "ref_stem": "urnew001"
+      }
+    ]
+  }
+}

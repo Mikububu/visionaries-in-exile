@@ -29,3 +29,5 @@ qa/package-lock.json
 /tmp/
 .claude/
 tools/__pycache__/
+.netlify/
+DELETE_ME.txt

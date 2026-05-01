@@ -4,18 +4,40 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Visionaries in Exile</title>
-    <link rel="stylesheet" href="/styles.css" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        width: 100%;
+        min-width: 640px;
+        min-height: 100%;
+        height: 100%;
+        background: #000;
+      }
+
+      body {
+        display: grid;
+        place-items: center;
+        min-height: 100vh;
+        overflow: auto;
+      }
+
+      iframe {
+        display: block;
+        width: 640px;
+        height: 480px;
+        border: 0;
+        background: #000;
+      }
+    </style>
   </head>
   <body>
-    <main class="shell">
-      <section class="hero" aria-labelledby="title">
-        <p class="eyebrow">Visionaries in Exile</p>
-        <h1 id="title">Original CD-ROM restoration</h1>
-        <p class="lede">The live original runtime is online for testing.</p>
-        <div class="actions">
-          <a class="button primary" href="/runtime">Open Live Runtime</a>
-        </div>
-      </section>
-    </main>
+    <iframe
+      title="Visionaries in Exile"
+      src="https://continuity-antique-subtle-basket.trycloudflare.com/vie.html?path=websockify&amp;password=vie5901"
+      width="640"
+      height="480"
+      allow="autoplay; fullscreen; pointer-lock"
+    ></iframe>
   </body>
 </html>

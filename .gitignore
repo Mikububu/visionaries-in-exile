@@ -31,3 +31,6 @@ qa/package-lock.json
 tools/__pycache__/
 .netlify/
 DELETE_ME.txt
+runtime-server/guacamole/.env
+runtime-server/guacamole/.guacadmin-password
+runtime-server/guacamole/initdb/
